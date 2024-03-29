@@ -4,4 +4,4 @@ Deveríamos pegar uma base de dados que continha os investimentos em marketing f
 <H1>Métodos</H1> <br>
  - Levantei os dados da empresa e tabulei fazendo uma relação de Investimento em Mkt X Vendas. <br>
  - Aplique aos dados um gráfico de dispersão e pude perceber que os dados são grandezas diretamente proporcionais: sempre que cresce o investimento em marketing crescem as vendas. <br>
- <img src = "Graficos/Dispersao">
+ <img src = "Graficos/Dispersao.png">
